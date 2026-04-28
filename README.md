@@ -1,3 +1,9 @@
+## 📌 Project Summary
+Analyzed 50,000+ e-commerce transactions to identify key drivers of profitability and uncover margin leakage in product categories.
+
+## 🔥 Key Finding
+The Tables category generates high sales but low profit margins due to elevated shipping costs, highlighting a major opportunity for cost optimization.
+
 # 📊 E-Commerce Profitability Analysis
 
 ## 🔍 Overview
