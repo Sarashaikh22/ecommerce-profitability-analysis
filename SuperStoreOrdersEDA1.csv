@@ -1,0 +1,35 @@
+﻿Which regions are making the most money?,,,,,,Ask yourself:
+,,,,,,
+sub category,Sum of sales,Sum of profit,Sum of Profit Margin,Average of discount,Average of shipping_cost,👉 Which region has highest sales?
+Phones,"₹ 17,06,874.00","₹ 2,16,717.00",12.70%,15%,55.08,👉 Which region is lowest?
+Copiers,"₹ 15,09,439.00","₹ 2,58,567.50",17.10%,12%,71.75,
+Chairs,"₹ 15,01,682.00","₹ 1,41,973.80",9.50%,16%,47.82,
+Bookcases,"₹ 14,66,559.00","₹ 1,61,924.40",11.00%,15%,64.49,Sales ≠ Profit
+Storage,"₹ 11,27,124.00","₹ 1,08,461.50",9.60%,14%,23.83,
+Appliances,"₹ 10,11,081.00","₹ 1,41,680.60",14.00%,14%,61.71,Therefore lets create a profit 
+Machines,"₹ 7,79,071.00","₹ 58,867.90",7.60%,17%,53.25,Look at your table and answer:
+Tables,"₹ 7,57,034.00","₹ -64,083.40",-8.50%,29%,92.75,
+Accessories,"₹ 7,49,307.00","₹ 1,29,626.30",17.30%,12%,27.16,1. Which category has highest sales? Phones
+Binders,"₹ 4,61,952.00","₹ 72,449.80",15.70%,18%,7.83,2. Which category has highest profit? Copiers
+Furnishings,"₹ 3,85,609.00","₹ 46,967.40",12.20%,15%,12.85,
+Art,"₹ 3,72,163.00","₹ 57,953.90",15.60%,12%,8.46,“Is Central actually the BEST performing region?”
+Paper,"₹ 2,44,307.00","₹ 59,207.70",24.20%,11%,7.54,High profit ≠ best performance always.
+Supplies,"₹ 2,43,090.00","₹ 22,583.30",9.30%,13%,10.23,hence we create a profit margin
+Envelopes,"₹ 1,70,926.00","₹ 29,601.10",17.30%,13%,7.62,
+Fasteners,"₹ 83,254.00","₹ 11,525.40",13.80%,14%,3.74,"Top sales sub-categories: Phones, Copiers, Chairs"
+Labels,"₹ 73,433.00","₹ 15,010.50",20.40%,12%,3.09,Lowest margin: Tables
+Grand Total,"₹ 1,26,42,905.00","₹ 14,69,034.80",11.60%,14%,26.38,💡 The pattern:
+,,,,,,👉 Not all high-selling products are profitable
+,,,,,,👉 Some products may be hurting the business
+,,,,,,
+,,,,,,"“While Phones and Copiers drive high sales with healthy margins, Tables show significantly lower profitability, indicating potential pricing or cost inefficiencies.”"
+,,,,,,
+,,,,,,Why would Tables have low margin?
+,,,,,,Possible reasons:
+,,,,,,"High discount, lets create a discount col and check "
+,,,,,,High shipping cost
+,,,,,,Low pricing strategy
+,,,,,,
+,,,,,,"“Tables show low profitability despite strong sales, primarily driven by higher-than-average discounts and elevated shipping costs, indicating pricing and logistics inefficiencies.”"
+,,,,,,
+,,,,,,Conclusion: Tables generate strong sales but underperform in profitability due to aggressive discounting and high shipping costs. Addressing these through optimized pricing and logistics efficiency could significantly improve margins without hurting demand
